@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="true" type="Application" factoryName="Application" activateToolWindowBeforeRun="false">
+    <module name="java1" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
