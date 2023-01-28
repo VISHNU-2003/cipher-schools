@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdac0464-cd97-4a49-bcb2-132b8dfe5eaa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FinalKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FinalKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/carStudy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/carStudy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chartoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chartoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controlflow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controlflow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/premitiveDT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/premitiveDT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/statickeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/statickeyword.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +40,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/alapa/OneDrive/Desktop/java/src"
   }
-}</component>
+}]]></component>
+  <component name="RunManager">
+    <configuration name="MyApp" type="Application" factoryName="Application" activateToolWindowBeforeRun="false">
+      <option name="MAIN_CLASS_NAME" value="statickeyword" />
+      <module name="java1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Java Scratch">
+      <option name="MAIN_CLASS_NAME" value="Student" />
+      <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/src/statickeyword.java" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,5 +87,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Main_java$MyApp.ic" NAME="MyApp Coverage Results" MODIFIED="1674843536145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/FinalKeyword_java$Inheritance.ic" NAME="Inheritance Coverage Results" MODIFIED="1674892008542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
